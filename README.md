@@ -31,3 +31,5 @@ Remote Repository - [Github](https://github.com/rvk7895/SMAI_S22_48)
 - [x] Implementaiton of GRU with attention layer
 - [x] Implementation of Standard LSTM
 - [x] Implementation of LSTM with attention layer
+- [ ] Implementation of Vanilla RNN
+- [ ] Implementation of Vanilla RNN with attention layer
