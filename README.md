@@ -4,7 +4,6 @@
 ## Members
 - Ritvik Aryan Kalra *Github*: [rvk7895](github.com/rvk7895) Roll number - 2019115002
 - Lalit Kumar Digalla
-- Lokesh Paidi
 
 This repository consists of implementation of the paper [Adding Attentiveness to the Neurons in
 Recurrent Neural Networks](https://openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)
@@ -22,10 +21,13 @@ Models and Dataset - [OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/person
 Remote Repository - [Github](https://github.com/rvk7895/SMAI_S22_48)
 
 ## Files
-`gru.ipynb` - consists of the standard GRU model on the UCF dataset\
-`att_gru.ipynb` - consists of the GRU model with EleAtt gate on the UCF dataset\
-`att_gru_jhmdb.ipynb` - consists of the GRU models with EleAtt gate on the JHMDB dataset
+`att_gru_jhmdb.ipynb` - consists of the Vanilla and with EleAtt gate implementation of GRU on the JHMDB dataset\
+`att_gru_ucf101.ipynb` - consists of the Vanilla and with EleAtt gate implementation of GRU on the UCF101 dataset\
+`att_lstm_jhmdb.ipynb` - consists of the Vanilla and with EleAtt gate implementation of LSTM on the JHMDB dataset\
+`att_lstm_ucf101.ipynb` - consists of the Vanilla and with EleAtt gate implementation of LSTM on the UCF101 dataset\
 
 ## TODOs
 - [x] Implementations of Standard GRU
 - [x] Implementaiton of GRU with attention layer
+- [x] Implementation of Standard LSTM
+- [x] Implementation of LSTM with attention layer
